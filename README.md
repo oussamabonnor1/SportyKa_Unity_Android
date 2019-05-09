@@ -1,5 +1,10 @@
 # SportyKa
+![Free download](https://img.shields.io/badge/Aptoide%20store-free-orange.svg)
+
 SportyKa is a free android game made with Unity3D using C#
+
+## Aptoide store link:
+[Free download](https://sportyka.en.aptoide.com/)
 
 ## Screenshots:
 
